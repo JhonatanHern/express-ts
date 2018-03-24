@@ -1,0 +1,27 @@
+{
+  "name": "express-ts",
+  "version": "1.0.0",
+  "description": "tutorial for TypeScript + express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonatanHern/express-ts.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "node",
+    "express"
+  ],
+  "author": "JhonatanHern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonatanHern/express-ts/issues"
+  },
+  "homepage": "https://github.com/JhonatanHern/express-ts#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
